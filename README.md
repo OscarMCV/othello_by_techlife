@@ -1,7 +1,3 @@
-# othello_by_techlife
-A othello game created with by Theclife team as a final project for OOP course
-
-===
 Welcome to our remote repository. 
 ===
 
@@ -11,11 +7,13 @@ Be aware YOU HAVE TO read about the following commands before run  them in your 
 However, we will give you those important for this project in order to speed up this stuff.
 
 To download this repository, use a git clone command followed bit the url provided by github.
-Usage:
+
+-- Usage:
 * git clone
 
 To create a new branch, use git checkout.
-usage:
+
+-- Usage:
 * git checkout -b 'your-name-followed-by-the-work-you-will-be-doing'
 
 To update yor local branch use:
@@ -29,6 +27,6 @@ To upload your changes use git push. But before upload anythin you have to make 
 * you have commited the change which you have to upload
 * you aren't pushing to the main branch
 
-usage:
+-- Usage:
 * git push origin 'your-name-followed-by-the-work-you-will-be-doing'
 
